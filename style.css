@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    color: blue;
+    background: tomato;
+}
+
+
+.fondo {
+    background-color: #d41da7;
+}
+#centrado{
+    text-align: center;
+}
+
+h1,p {
+    text-align: center;
+    color: red;
+    background-color: #2ae652;
+}
+h2{
+    text-align: left;
+    color: skyblue;
+}
+
+#div1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
